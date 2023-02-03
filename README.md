@@ -1,4 +1,4 @@
-# Time-Series-Forecasting-Hair-Styling
+# Time-Series Predictive Analytics for Hair Device
 **• Aim of the project:**<br />
       Stabilise the device temperature over a period of time based on the historical data to provide a ideal styling conditions to
 the user.<br /><br />
